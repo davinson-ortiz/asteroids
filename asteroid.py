@@ -1,8 +1,8 @@
 import random
 
 import pygame
-from circleshape import CircleShape
 
+from circleshape import CircleShape
 from constants import *
 
 
