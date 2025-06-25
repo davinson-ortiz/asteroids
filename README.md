@@ -46,6 +46,7 @@ Medium Asteroids: Split into 2 small asteroids when shot
 Small Asteroids: Destroyed completely when shot
 Split asteroids move 1.2x faster than their parent asteroid
 📂 Project Structure
+
 asteroids-game/
 ├── main.py             # Main game loop
 ├── asteroid.py         # Asteroid class
